@@ -1,9 +1,0 @@
-from:
-<div style="background:salmon">hi</div> 
-
-to:
-{
-  'tag': 'div',
-  'attr': 'background:salmon',
-  'child': hi
-}
